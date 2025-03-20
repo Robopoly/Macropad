@@ -1,0 +1,40 @@
+{
+  "name": "3x3_v2",
+  "vendor_id": "0xFEED",
+  "product_id": "0x6060",
+  "lighting": {
+        "type": "basic",
+        "num_leds": 4
+    },
+  "matrix": {
+    "rows": 3,
+    "cols": 3
+  },
+  "layouts": {
+    "keymap": [
+      [
+        {
+          "y": 0,
+          "x": 0
+        },
+        "0,0\n\n\n\n\n\n\n\n\ne",
+        "0,1\n\n\n\n\n\n\n\n\ne"
+      ],
+      [
+        "0,0",
+        "1,0",
+        "2,0"
+      ],
+      [
+        "0,1",
+        "1,1",
+        "2,1"
+      ],
+      [
+        "0,2",
+        "1,2",
+        "2,2"
+      ]
+    ]
+  }
+}
