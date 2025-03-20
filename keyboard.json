@@ -1,5 +1,5 @@
 {
-    "manufacturer": "Eileen",
+    "manufacturer": "Robopoly",
     "keyboard_name": "3x3_v2",
     "bootloader": "atmel-dfu",
     "diode_direction": "COL2ROW",
