@@ -16,3 +16,7 @@ Flashing example for this keyboard:
     make 3x3_v2:vial:flash
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
+
+## cad
+
+Le dossier cad contient la 3D et le boitier du macropad
