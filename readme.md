@@ -1,7 +1,7 @@
 
 # Kit Macropad - Robopoly
 
-# 3x3_v2
+### 3x3_v2
 
 * Keyboard Maintainer: [Eileen](https://github.com/Eileenert)
 
