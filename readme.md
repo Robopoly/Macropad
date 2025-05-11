@@ -22,6 +22,8 @@ Le dossier cad contient la 3D et le boitier du macropad
 
 ## 📜 Licence
 
+Le firmware est basé sur [QMK Firmware](https://github.com/qmk/qmk_firmware) et [Vial](https://get.vial.today), tous deux distribués sous licence **GNU GPLv2**.
+
 Tous les fichiers contenus dans ce dépôt (sauf indication contraire) sont publiés sous la licence :
 
 **[Creative Commons Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr)**
