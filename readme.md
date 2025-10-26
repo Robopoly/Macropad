@@ -15,6 +15,8 @@ Flashing example for this keyboard:
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
+If you have problems compiling the code and want to test the code the [3x3_v2_vial.hex](3x3_v2_vial.hex) file is the compiled file.
+
 ## cad
 
 Le dossier cad contient la 3D et le boitier du macropad
@@ -50,5 +52,6 @@ Merci de respecter la licence en vigueur et de ne pas utiliser ce contenu à des
 Pour toute question ou demande de partenariat (y compris les licences commerciales), contactez-nous à :  
 📧 comite@robopoly.ch  
 🌐 [Robopoly](https://www.epfl.ch/campus/associations/robopoly/)
+
 
 
